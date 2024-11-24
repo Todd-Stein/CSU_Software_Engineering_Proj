@@ -1,0 +1,6 @@
+[submodule "LEDPanelDesktopClient/ThirdParties/asio"]
+	path = LEDPanelDesktopClient/ThirdParties/asio
+	url = https://github.com/chriskohlhoff/asio
+[submodule "LEDPanelDesktopClient/ThirdParties/imgui"]
+	path = LEDPanelDesktopClient/ThirdParties/imgui
+	url = https://github.com/ocornut/imgui
