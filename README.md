@@ -8,8 +8,9 @@ Download project with
 ```
 git clone https://github.com/Todd-Stein/CSU_Software_Engineering_Proj/ 
 ```
+# Instructions
 
-1. After download, run the program. A user interface will appear. 
+1. After downloading, run the program. A user interface will appear. 
 <img width="1590" alt="Screenshot 2024-12-16 at 10 52 51 PM" src="https://github.com/user-attachments/assets/600aae50-bbd5-4145-8e4c-7d8b041d64f4" />
 
 2. Enter the image file path in the space under "Select file below"
@@ -30,3 +31,9 @@ git clone https://github.com/Todd-Stein/CSU_Software_Engineering_Proj/
 
 5. Once a port is chosen, press "Open port" to confirm port.
 6. Press send image to display the image on the LED Panel.
+
+# Example
+
+<img width="757" alt="Screenshot 2024-12-16 at 11 08 59 PM" src="https://github.com/user-attachments/assets/9605465b-fac3-4aa9-bfa9-cff663355a95" />
+
+![87AB07E1-1162-40DD-B939-03D81D0C5304_1_201_a](https://github.com/user-attachments/assets/a4b197bb-cd27-41b3-9d0b-1ee28db18923)
